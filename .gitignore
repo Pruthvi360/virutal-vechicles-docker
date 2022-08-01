@@ -1,0 +1,7 @@
+certs/
+docker-compose.yml
+build-artifacts/
+authentication/**/Dockerfile
+maintenance/**/Dockerfile
+valet/**/Dockerfile
+vehicle/**/Dockerfile
